@@ -2,7 +2,7 @@
 syntax highlighting for **npp**.
 
 # Setup
-- **Step 1** : Download `KAGSA.xml`
+- **Step 1** : Download `KAGSA.xml` from Github or [Click Here](https://github.com/kagsa/kagsa-npp/archive/refs/heads/main.zip).
 - **Step 2** : Open notepad++, Click `Language`
 - **Step 3** : `User Defined Language` -> `Define your language...`
 - **Step 4** : Click on `import...`, and open `KAGSA.xml`
